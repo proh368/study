@@ -1,0 +1,77 @@
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\Student Exam.exe.config
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\Student Exam.exe
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\Student Exam.pdb
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\EntityFramework.dll
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\EntityFramework.SqlServer.dll
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\System.Data.SQLite.dll
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\System.Data.SQLite.EF6.dll
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\System.Data.SQLite.Linq.dll
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\EntityFramework.xml
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\EntityFramework.SqlServer.xml
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\System.Data.SQLite.xml
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student Exam.csproj.AssemblyReference.cache
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.LoginForm.resources
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.Properties.Resources.resources
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student Exam.csproj.GenerateResource.cache
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student Exam.csproj.CoreCompileInputs.cache
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student .C4BB6CDC.Up2Date
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student Exam.exe
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student Exam.pdb
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.MainForm.resources
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.ListStudForm.resources
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.RegisterForm.resources
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\Student Exam.exe.config
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\Student Exam.exe
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\Student Exam.pdb
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\EntityFramework.dll
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\EntityFramework.SqlServer.dll
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\System.Data.SQLite.dll
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\System.Data.SQLite.EF6.dll
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\System.Data.SQLite.Linq.dll
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\EntityFramework.xml
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\EntityFramework.SqlServer.xml
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\bin\Debug\System.Data.SQLite.xml
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student Exam.csproj.AssemblyReference.cache
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student Exam.csproj.SuggestedBindingRedirects.cache
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.ListStudForm.resources
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.LoginForm.resources
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.MainForm.resources
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.Properties.Resources.resources
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.RegisterForm.resources
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student Exam.csproj.GenerateResource.cache
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student Exam.csproj.CoreCompileInputs.cache
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student Exam.csproj.CopyComplete
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student Exam.exe
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student Exam.pdb
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.ListTeacherForm.resources
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.ListTeacherForm.resources
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.ListExamForm.resources
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\bin\Debug\Student Exam.exe.config
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\bin\Debug\Student Exam.exe
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\bin\Debug\Student Exam.pdb
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\bin\Debug\EntityFramework.dll
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\bin\Debug\EntityFramework.SqlServer.dll
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\bin\Debug\System.Data.SQLite.dll
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\bin\Debug\System.Data.SQLite.EF6.dll
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\bin\Debug\System.Data.SQLite.Linq.dll
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\bin\Debug\EntityFramework.xml
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\bin\Debug\EntityFramework.SqlServer.xml
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\bin\Debug\System.Data.SQLite.xml
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\obj\Debug\Student Exam.csproj.AssemblyReference.cache
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\obj\Debug\Student_Exam.ListExamForm.resources
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\obj\Debug\Student_Exam.ListStudForm.resources
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\obj\Debug\Student_Exam.ListTeacherForm.resources
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\obj\Debug\Student_Exam.LoginForm.resources
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\obj\Debug\Student_Exam.MainForm.resources
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\obj\Debug\Student_Exam.Properties.Resources.resources
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\obj\Debug\Student_Exam.RegisterForm.resources
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\obj\Debug\Student Exam.csproj.GenerateResource.cache
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\obj\Debug\Student Exam.csproj.CoreCompileInputs.cache
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\obj\Debug\Student .C4BB6CDC.Up2Date
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\obj\Debug\Student Exam.exe
+E:\УП ПМ02 Чистяков\Student Exam не нужен\Student Exam\obj\Debug\Student Exam.pdb
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.ListStud1988Form.resources
+E:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.CopyListTeacherForm.resources
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.CopyListTeacherForm.resources
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.ListExamForm.resources
+F:\УП ПМ02 Чистяков\Student Exam\Student Exam\obj\Debug\Student_Exam.ListStud1988Form.resources
